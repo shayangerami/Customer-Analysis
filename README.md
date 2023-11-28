@@ -12,5 +12,5 @@ Download the A/B testing data here:
 [A/B testing](https://www.kaggle.com/datasets/putdejudomthai/ecommerce-ab-testing-2022-dataset1)
 
 Download the Starbucks data here: 
-[Starbucks](https://www.kaggle.com/datasets/mahirahmzh/starbucks-customer-retention-malaysia-survey/download?datasetVersionNumber=2)
+[Starbucks](https://www.kaggle.com/datasets/mahirahmzh/starbucks-customer-retention-malaysia-survey/data)
 
