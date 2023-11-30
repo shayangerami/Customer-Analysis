@@ -14,3 +14,6 @@ Download the A/B testing data here:
 Download the Starbucks data here: 
 [Starbucks](https://www.kaggle.com/datasets/mahirahmzh/starbucks-customer-retention-malaysia-survey/data)
 
+
+Download the Amazon data here: 
+[Starbucks](https://www.kaggle.com/datasets/tarkkaanko/amazon)
