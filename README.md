@@ -16,4 +16,4 @@ Starbucks data:
 
 
 Amazon data: 
-[Starbucks](https://www.kaggle.com/datasets/tarkkaanko/amazon)
+[Amazon](https://www.kaggle.com/datasets/tarkkaanko/amazon)
