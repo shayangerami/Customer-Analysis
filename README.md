@@ -17,3 +17,7 @@ Starbucks data:
 
 Amazon data: 
 [Amazon](https://www.kaggle.com/datasets/tarkkaanko/amazon)
+
+
+Customer Segmentation data:
+[Customer_Seg](https://www.kaggle.com/datasets/kaushiksuresh147/customer-segmentation)
