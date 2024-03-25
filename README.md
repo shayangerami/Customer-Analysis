@@ -1,5 +1,5 @@
 # Customer-Analysis
-Analyzing datas about customers and sales
+Analyzing data related to customers and sales
 
 ## Overview
 
